@@ -1,0 +1,18 @@
+c:\users\brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\bin\Debug\Lender Administration.exe.config
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\bin\Debug\Lender Administration.exe
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\bin\Debug\Lender Administration.pdb
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\obj\Debug\Lender Administration.csprojResolveAssemblyReference.cache
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\obj\Debug\Lender_Administration.Form1.resources
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\obj\Debug\Lender_Administration.MainAdminWindow.resources
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\obj\Debug\Lender_Administration.Properties.Resources.resources
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\obj\Debug\Lender Administration.csproj.GenerateResource.Cache
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\obj\Debug\Lender Administration.exe
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\obj\Debug\Lender Administration.pdb
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\bin\Debug\Json.dll
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\bin\Debug\RestSharp.dll
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\bin\Debug\Json.pdb
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\bin\Debug\RestSharp.xml
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\obj\Debug\Lender_Administration.LenderInformationHandler.resources
+C:\Users\Brian\documents\visual studio 2015\Projects\Lender Administration\Lender Administration\obj\Debug\Lender_Administration.UserInformationHandler.resources
