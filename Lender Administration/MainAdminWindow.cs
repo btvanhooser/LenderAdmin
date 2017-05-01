@@ -19,6 +19,7 @@ namespace Lender_Administration
         public MainAdminWindow(string userToken)
         {
             InitializeComponent();
+            CenterToScreen();
             this.userToken = userToken;
 
             refreshLenders();
@@ -82,7 +83,7 @@ namespace Lender_Administration
             //show form
             using (var form = new LenderInformationHandler())
             {
-                if (form.ShowDialog() == DialogResult.Cancel)
+                if (form.ShowDialog(this) == DialogResult.Cancel)
                 {
                     return;
                 }
@@ -111,7 +112,7 @@ namespace Lender_Administration
             //show form
             using (var form = new UserInformationHandler(lendercode))
             {
-                if (form.ShowDialog() == DialogResult.Cancel)
+                if (form.ShowDialog(this) == DialogResult.Cancel)
                 {
                     return;
                 }
@@ -141,7 +142,7 @@ namespace Lender_Administration
             //show form
             using (var form = new LenderInformationHandler(lendercode, name))
             {
-                if (form.ShowDialog() == DialogResult.Cancel)
+                if (form.ShowDialog(this) == DialogResult.Cancel)
                 {
                     return;
                 }
@@ -180,7 +181,7 @@ namespace Lender_Administration
             //show form
             using (var form = new UserInformationHandler(lendercode, username))
             {
-                if (form.ShowDialog() == DialogResult.Cancel)
+                if (form.ShowDialog(this) == DialogResult.Cancel)
                 {
                     return;
                 }

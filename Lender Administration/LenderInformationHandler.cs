@@ -11,6 +11,7 @@ namespace Lender_Administration
         public LenderInformationHandler(string lendercode = null, string name = null)
         {
             InitializeComponent();
+            CenterToScreen();
             if (lendercode != null)
             {
                 lenderCodeInput.Text = lendercode;

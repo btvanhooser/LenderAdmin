@@ -20,6 +20,7 @@ namespace Lender_Administration
         public Form1()
         {
             InitializeComponent();
+            CenterToScreen();
         }
 
         private void loginButton_Click(object sender, EventArgs e)
@@ -38,7 +39,7 @@ namespace Lender_Administration
             else
             {
                 MainAdminWindow mainWindow = new MainAdminWindow(userToken);
-                mainWindow.Show();
+                mainWindow.Show(this);
                 Hide();
             }
         }

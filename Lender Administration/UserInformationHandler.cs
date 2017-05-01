@@ -13,6 +13,7 @@ namespace Lender_Administration
         public UserInformationHandler(string lendercode, string username = null)
         {
             InitializeComponent();
+            CenterToScreen();
             Text += " - " + lendercode;
 
             if (username != null)
